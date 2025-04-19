@@ -1,0 +1,53 @@
+{
+    "linkedin_credentials": {
+        "email": "divyanamburg@gmail.com",
+        "password": "Coco@456"
+    },
+    "job_preferences": {
+        "keywords": [
+            "Python Developer",
+            "Backend Developer",
+            "Software Engineer",
+            "Java Developer"
+        ],
+        "locations": [
+            "United States",
+            "California",
+            "New York"
+        ],
+        "experience_level": "Entry level",
+        "job_types": [
+            "Full-time",
+            "Contract"
+        ],
+        "remote": false,
+        "easy_apply_only": true,
+        "workplace_types": [
+            "On-site",
+            "Hybrid"
+        ]
+    },
+    "application_answers": {
+        "Mobile phone number": "(201) 589 9552",
+        "years_of_experience": "3",
+        "require_visa_sponsorship": "No",
+        "willing_to_relocate": "Yes",
+        "custom_questions": {
+            "how many years of python experience do you have?": "4 years",
+            "are you familiar with django?": "Yes, I have 3 years of experience with Django.",
+            "do you require visa sponsorship?": "No",
+            "are you willing to relocate?": "Yes",
+            "How many years of work experience do you have with C++?": "0",
+            "Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)": "yes"
+        }
+    },
+    "contact_details": {
+        "email": "your_email@example.com",
+        "phone_number": "+1-201-589-9552",  
+        "country_code": "+1"  
+    },
+    "resume_path": "resume/my_resume.pdf",
+    "cover_letter_path": "cover_letters/python_developer_cover_letter.pdf",
+    "application_limit": 10,
+    "delay_between_applications": [5, 15]
+}

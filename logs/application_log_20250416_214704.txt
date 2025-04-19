@@ -1,0 +1,173 @@
+LinkedIn Auto Apply Session - 2025-04-16 21:47:04
+--------------------------------------------------------------------------------
+
+[2025-04-16 21:47:24] Starting automated job application session
+[2025-04-16 21:47:24] Logging in to LinkedIn...
+[2025-04-16 21:47:35] Successfully logged in to LinkedIn
+[2025-04-16 21:47:36] Saved screenshot: screenshots/login_successful_20250416_214735.png
+[2025-04-16 21:47:36] Searching for 'Software Engineer' jobs in 'New York'
+[2025-04-16 21:47:41] Error during job search: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-box__text-input[name='keywords']"}
+  (Session info: chrome=135.0.7049.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104b92e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104b8b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001046d28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047196a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010475a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010470da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104b57c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104b5af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b37a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104b5b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b28b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104b7b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104b7bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104b8acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000184219f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000184214d34 thread_start + 8
+
+[2025-04-16 21:47:41] Saved screenshot: screenshots/search_error_20250416_214741.png
+[2025-04-16 21:47:52] Error getting job listings: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104b92e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104b8b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001046d28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047196a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010475a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010470da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104b57c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104b5af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b37a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104b5b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b28b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104b7b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104b7bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104b8acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000184219f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000184214d34 thread_start + 8
+
+[2025-04-16 21:47:52] Searching for 'Software Engineer' jobs in 'Remote'
+[2025-04-16 21:47:57] Error during job search: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-box__text-input[name='keywords']"}
+  (Session info: chrome=135.0.7049.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104b92e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104b8b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001046d28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047196a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010475a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010470da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104b57c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104b5af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b37a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104b5b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b28b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104b7b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104b7bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104b8acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000184219f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000184214d34 thread_start + 8
+
+[2025-04-16 21:47:57] Saved screenshot: screenshots/search_error_20250416_214757.png
+[2025-04-16 21:48:07] Error getting job listings: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104b92e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104b8b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001046d28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047196a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010475a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010470da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104b57c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104b5af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b37a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104b5b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b28b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104b7b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104b7bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104b8acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000184219f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000184214d34 thread_start + 8
+
+[2025-04-16 21:48:07] Searching for 'Python Developer' jobs in 'New York'
+[2025-04-16 21:48:13] Error during job search: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-box__text-input[name='keywords']"}
+  (Session info: chrome=135.0.7049.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104b92e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104b8b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001046d28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047196a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010475a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010470da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104b57c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104b5af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b37a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104b5b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b28b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104b7b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104b7bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104b8acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000184219f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000184214d34 thread_start + 8
+
+[2025-04-16 21:48:13] Saved screenshot: screenshots/search_error_20250416_214813.png
+[2025-04-16 21:48:23] Error getting job listings: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104b92e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104b8b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001046d28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047196a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010475a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010470da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104b57c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104b5af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b37a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104b5b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b28b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104b7b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104b7bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104b8acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000184219f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000184214d34 thread_start + 8
+
+[2025-04-16 21:48:23] Searching for 'Python Developer' jobs in 'Remote'
+[2025-04-16 21:48:28] Error during job search: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-box__text-input[name='keywords']"}
+  (Session info: chrome=135.0.7049.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104b92e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104b8b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001046d28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047196a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010475a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010470da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104b57c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104b5af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b37a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104b5b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b28b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104b7b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104b7bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104b8acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000184219f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000184214d34 thread_start + 8
+
+[2025-04-16 21:48:28] Saved screenshot: screenshots/search_error_20250416_214828.png
+[2025-04-16 21:48:39] Error getting job listings: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104b92e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x0000000104b8b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x00000001046d28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x00000001047196a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x000000010475a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x000000010470da80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000104b57c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x0000000104b5af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000104b37a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x0000000104b5b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000104b28b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x0000000104b7b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x0000000104b7bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x0000000104b8acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x0000000184219f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x0000000184214d34 thread_start + 8
+
+[2025-04-16 21:48:39] Application session completed. Applied to 0 jobs.
+[2025-04-16 21:48:39] Browser closed successfully
